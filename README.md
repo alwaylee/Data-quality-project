@@ -1,47 +1,67 @@
-# Data Quality Assessment and Improvement Project
+ مشروع تقييم وتحسين جودة البيانات
+(Data Quality Assessment and Improvement Project)
 
-## 1. Project Overview
+ 1. نبذة عن المشروع
 
-This project aims to assess and improve data quality in structured datasets.
+يهدف هذا المشروع إلى تقييم وتحسين جودة البيانات المنظمة، من خلال اكتشاف المشكلات الشائعة التي قد تؤثر على دقة البيانات وموثوقيتها والاستفادة منها.
 
-The project focuses on identifying common data quality problems, including missing values, duplicate records, inconsistent formats, and invalid values.
+يركز المشروع على تحديد مشكلات جودة البيانات، ومن أبرزها:
+- القيم المفقودة (Missing Values).
+- السجلات المكررة (Duplicate Records).
+- عدم اتساق تنسيقات البيانات (Inconsistent Formats).
+- القيم غير الصحيحة أو غير الصالحة (Invalid Values).
 
-## 2. Project Objectives
+ 2. أهداف المشروع
 
-- Identify missing values.
-- Detect duplicate records.
-- Identify inconsistent data formats.
-- Evaluate data completeness and consistency.
-- Generate data quality reports.
+يهدف المشروع إلى تحقيق الأهداف التالية:
 
-## 3. Project Scope
+- اكتشاف القيم المفقودة في مجموعات البيانات.
+- تحديد السجلات المكررة ومعالجتها.
+- اكتشاف عدم الاتساق في تنسيقات البيانات.
+- تقييم مستوى اكتمال البيانات واتساقها.
+- إعداد تقارير توضح مشكلات جودة البيانات.
+- اقتراح إجراءات لتحسين جودة البيانات.
 
-This project focuses on data quality assessment and improvement using Python.
+ 3. نطاق المشروع
 
-The project uses public or synthetic datasets for educational and research purposes.
+يركز المشروع على تقييم جودة البيانات وتحسينها باستخدام لغة البرمجة Python.
 
-## 4. Technologies
+وسيتم استخدام مجموعات بيانات عامة أو بيانات تجريبية (Synthetic Data) لأغراض تعليمية وتطبيقية، مع التركيز على اكتشاف مشكلات جودة البيانات وتحليلها ومعالجتها.
 
-- Python
-- Pandas
-- NumPy
-- Jupyter Notebook
-- GitHub
+ 4. التقنيات والأدوات المستخدمة
 
-## 5. Project Structure
+سيتم الاعتماد على التقنيات والأدوات التالية:
 
-- data: Dataset storage.
-- notebooks: Data analysis notebooks.
-- src: Python source code.
-- reports: Data quality reports.
-- docs: Project documentation.
+- Python: لغة البرمجة المستخدمة في تنفيذ المشروع.
+- Pandas: لتحليل البيانات ومعالجتها.
+- NumPy: للعمليات الحسابية والتعامل مع البيانات.
+- Jupyter Notebook: لتنفيذ التحليلات والتجارب.
+- GitHub: لإدارة ملفات المشروع وحفظ الإصدارات.
 
-## 6. Expected Results
+ 5. الهيكل التنظيمي للمشروع
 
-The expected outcome is to identify data quality issues and provide useful reports that support data cleaning and data quality improvement.
+يتكون المشروع من مجموعة من المجلدات والملفات المنظمة، وهي:
 
-## 7. Training Program
+- data: لحفظ مجموعات البيانات المستخدمة.
+- notebooks: لحفظ ملفات التحليل والتجارب.
+- src: لحفظ الأكواد البرمجية الخاصة بالمشروع.
+- reports: لحفظ تقارير نتائج تقييم جودة البيانات.
+- docs: لحفظ الوثائق والمنهجية الخاصة بالمشروع.
 
-This project is associated with a training program at the Saudi Data and Artificial Intelligence Authority (SDAIA) Academy.
+ 6. النتائج المتوقعة
 
-GitHub: https://github.com/SDAIAAcademy
+من المتوقع أن يساهم المشروع في:
+
+- اكتشاف مشكلات جودة البيانات بصورة منهجية.
+- تحديد مصادر القيم المفقودة والسجلات المكررة.
+- تحليل مستوى اكتمال البيانات واتساقها.
+- تقديم تقارير تساعد على فهم مشكلات جودة البيانات.
+- دعم عمليات تنظيف البيانات وتحسين جودتها.
+
+ 7. البرنامج التدريبي
+
+يرتبط تنفيذ هذا المشروع ببرنامج تدريبي لدى أكاديمية الهيئة السعودية للبيانات والذكاء الاصطناعي (سدايا).
+
+رابط حساب أكاديمية سدايا على GitHub:
+
+https://github.com/SDAIAAcademy
