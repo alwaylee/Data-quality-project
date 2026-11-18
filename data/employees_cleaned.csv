@@ -1,0 +1,11 @@
+﻿Employee_ID,Name,Department,Age,Salary
+1001,Ahmed,IT,35.0,12000.0
+1002,Mohammed,HR,40.0,10000.0
+1003,Khalid,Finance,44.0,11000.0
+1004,Sara,IT,29.0,9500.0
+1006,Noura,HR,32.0,10500.0
+1007,Omar,Finance,,11500.0
+1008,Fahad,IT,28.0,10727.272727272728
+1009,Laila,HR,31.0,9800.0
+1010,Maha,HR,34.0,10200.0
+1011,Ali,Finance,38.0,11000.0
